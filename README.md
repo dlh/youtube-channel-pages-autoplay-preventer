@@ -4,7 +4,7 @@ A Safari extension that stops YouTube channel introduction videos from autoplayi
 
 ## Requirements
 
-This extension has been tested on Safari 8/9 (without Flash Player installed)
+This extension has been tested on Safari 10 (without Flash Player installed)
 
 ## License
 

@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>dlh</string>
 	<key>Builder Version</key>
-	<string>10600.6.3</string>
+	<string>11602.1.50.0.10</string>
 	<key>CFBundleDisplayName</key>
 	<string>YouTube Channel Pages Autoplay Preventer</string>
 	<key>CFBundleIdentifier</key>
@@ -16,8 +16,6 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-	<key>Chrome</key>
-	<dict/>
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
@@ -30,6 +28,8 @@
 	</dict>
 	<key>Description</key>
 	<string>Stops YouTube channel introduction videos from autoplaying</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
